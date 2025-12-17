@@ -1,4 +1,4 @@
 int main()
 {
-	int y = 8;
+	int y = 100;
 }
